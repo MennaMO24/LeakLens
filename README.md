@@ -242,4 +242,4 @@ curl -X POST http://localhost:8000/api/v1/predict \
 EOF
 ```
 
-> **Tip:** Use the web dashboard buttons for a richer visual test experience.
+> **Tip:** Use the web dashboard
